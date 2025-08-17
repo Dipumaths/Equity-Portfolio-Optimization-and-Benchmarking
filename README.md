@@ -1,4 +1,4 @@
-Key Projects Undertaken|Equity Portfolio Optimization and Benchmarking|Self- Project[Oct ’24 - Dec’24
+Key Projects Undertaken|Equity Portfolio Optimization |Self- Project[Oct ’24 - Dec’24
 
 •PredictedP/E ratio,ROE, andCAGRusing theTOPSIS multi-criteria decision-making method
 
